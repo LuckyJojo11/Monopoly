@@ -3,3 +3,7 @@ Projekt "Monopoly" des Info-Kurses Niederseeon, das wir über das Schuljahr weit
 
 Entwickler:
 Dominik Ebert
+Johannes Knoblich
+Enis Tuncer
+Samuel Hausstätter
+Carl-Friedrich Rose
