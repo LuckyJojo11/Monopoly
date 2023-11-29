@@ -1,3 +1,4 @@
+package de.niederseeon.monopoly;
 public class Wuerfelergebnis {
 
     private int ergebnisWuerfel1;

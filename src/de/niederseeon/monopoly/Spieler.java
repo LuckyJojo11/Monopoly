@@ -1,3 +1,4 @@
+package de.niederseeon.monopoly;
 import java.util.List;
 
 public class Spieler {

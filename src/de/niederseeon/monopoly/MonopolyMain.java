@@ -1,3 +1,4 @@
+package de.niederseeon.monopoly;
 import java.util.Scanner;
 
 public class MonopolyMain {
