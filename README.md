@@ -6,4 +6,4 @@ Dominik Ebert
 Johannes Knoblich
 Enis Tuncer
 Samuel Hausstätter
-Carl-Friedrich Rose
+Carl-Friedrich Rose:]
